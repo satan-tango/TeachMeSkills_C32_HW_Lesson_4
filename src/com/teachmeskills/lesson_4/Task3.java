@@ -28,6 +28,8 @@ public class Task3 {
         } else {
             System.out.println("First array AV = Second array AV");
         }
+
+        System.out.println();
     }
 
     public static void showArray(int[] array) {
